@@ -1,0 +1,16 @@
+#focim{
+    color: blue;
+}
+
+#tablazat{
+    color: blue;
+}
+
+#kep{
+    width: 25%;
+    height: 25%;
+}
+
+li{
+    list-style: square;
+}
